@@ -1,0 +1,14 @@
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\bin\Debug\netcoreapp2.1\RestWithASPNetCore.deps.json
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\bin\Debug\netcoreapp2.1\RestWithASPNetCore.runtimeconfig.json
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\bin\Debug\netcoreapp2.1\RestWithASPNetCore.runtimeconfig.dev.json
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\bin\Debug\netcoreapp2.1\RestWithASPNetCore.dll
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.csprojAssemblyReference.cache
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.csproj.CoreCompileInputs.cache
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.RazorAssemblyInfo.cache
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.RazorAssemblyInfo.cs
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.AssemblyInfoInputs.cache
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.AssemblyInfo.cs
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\bin\Debug\netcoreapp2.1\RestWithASPNetCore.pdb
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.dll
+C:\Users\rondinelli.franca\Documents\Pessoal\Projetos\Udemy\AspNetCore\RestWithASP-NETUdemy\RestWithASPNetCore\RestWithASPNetCore\obj\Debug\netcoreapp2.1\RestWithASPNetCore.pdb
